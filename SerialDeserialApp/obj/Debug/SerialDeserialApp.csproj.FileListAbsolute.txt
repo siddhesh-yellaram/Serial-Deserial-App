@@ -1,0 +1,7 @@
+D:\test\.NET\SerialDeserialApp\bin\Debug\SerialDeserialApp.exe.config
+D:\test\.NET\SerialDeserialApp\bin\Debug\SerialDeserialApp.exe
+D:\test\.NET\SerialDeserialApp\bin\Debug\SerialDeserialApp.pdb
+D:\test\.NET\SerialDeserialApp\obj\Debug\SerialDeserialApp.csproj.AssemblyReference.cache
+D:\test\.NET\SerialDeserialApp\obj\Debug\SerialDeserialApp.csproj.CoreCompileInputs.cache
+D:\test\.NET\SerialDeserialApp\obj\Debug\SerialDeserialApp.exe
+D:\test\.NET\SerialDeserialApp\obj\Debug\SerialDeserialApp.pdb
